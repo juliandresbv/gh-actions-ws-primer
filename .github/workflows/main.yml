@@ -16,4 +16,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: juliandresbv/github-actions-workshop:${{ github.sha }}.latest
+        tags: juliandresbv/gh-actions-ws-primer:${{ github.sha }}.latest
